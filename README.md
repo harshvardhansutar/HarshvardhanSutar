@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadMax19
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Computer enggineering (Deploma) 
+- 🌱 I’m currently pursuing BE in Computer Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
