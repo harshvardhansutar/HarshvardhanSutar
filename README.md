@@ -62,7 +62,8 @@ I'm a passionate and object-oriented developer with a strong foundation in softw
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-sutar)  
 📧 Email: harshvardhansutar@gmail.com  
-🎮 YouTube: [CodeByte Gaming](https://www.youtube.com/@codebytegamingofficial) | [IMxHARSH Gaming](https://www.youtube.com/@imxharshgaming)
+Portfolio : (https://harshvardhansutar.netlify.app/)
+🎮 YouTube: [IMxHARSH Gaming](https://www.youtube.com/@imxharshgaming)
 
 ---
 
