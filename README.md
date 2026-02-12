@@ -1,4 +1,4 @@
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/824d9e97-1ba8-4208-ae0b-5b2b4d2a1a05)# 👋 Hey, I'm Harshvardhan Sutar
+# 👋 Hey, I'm Harshvardhan Sutar
 
 🎓 Computer Engineering Student | 💻 Android & Java & Python Enthusiast  
 📍 Pune, India | 🌐 Open to Freelance & Internship Opportunities
@@ -12,11 +12,7 @@ I'm Harshvardhan Sutar, Aspiring Data Analyst pursuing a Bachelor of Engineering
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-sutar/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshvardhansutar.netlify.app/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhansutar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-sutar/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshvardhansutar.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhansutar@gmail.com)
 
 
 ---
