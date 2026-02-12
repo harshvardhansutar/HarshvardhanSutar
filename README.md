@@ -5,9 +5,11 @@
 
 ---
 
-## 🚀 About Me
+## Let me introduce myself
 
 I'm Harshvardhan Sutar, Aspiring Data Analyst pursuing a Bachelor of Engineering in Computer Engineering at Ajeenkya DY Patil School of Engineering. Proficient in Python, SQL, data analysis, and machine learning with hands-on experience in healthcare and IoT-based projects. Passionate about transforming raw data into actionable insights and building data-driven solutions for real-world problems.
+
+## 🚀 About Me
 
 - 💻 Computer Engineering student passionate about Data Science, AI & Android Development  
 - 🧠 Currently building real-world projects in Machine Learning, Deep Learning & Computer Vision  
