@@ -88,6 +88,29 @@ Tech Stack: Python • Scikit-learn • CatBoost • XGBoost • Machine Learnin
 
 ---
 
+## 💻 Technical Skills
+
+### 👨‍💻 Programming Languages
+Python • Java • C • C++ • SQL
+
+### 📊 Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • TensorFlow • CatBoost • XGBoost • EDA • Feature Engineering • Model Evaluation
+
+### 🤖 Computer Vision
+OpenCV • Image Processing • Real-time Object Detection
+
+### 📱 Android Development
+Java • Jetpack Compose • Firebase • Android Studio
+
+### 🌐 Backend & Databases
+Firebase • MySQL • PostgreSQL (Basics)
+
+### 🛠 Tools & Platforms
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshvardhanSutar&show_icons=true&theme=tokyonight)
