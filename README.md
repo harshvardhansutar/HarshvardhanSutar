@@ -53,43 +53,38 @@ I'm Harshvardhan Sutar, Aspiring Data Analyst pursuing a Bachelor of Engineering
 
 --- 
 
-## 🛠️ Tech Stack
+## 🚀 Projects
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### 🚗 Driver Drowsiness Detection and Alert System  
+Tech Stack: Python • OpenCV • Arduino
 
-**Mobile Development:**  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
-
-**Tools & Platforms:**  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware)
+- Led end-to-end development of a real-time driver fatigue detection system  
+- Implemented eye-blink and facial landmark detection using OpenCV  
+- Integrated hardware-based alert mechanism using Arduino sensors  
+- Designed optimized detection pipeline to reduce latency and false positives  
+- Improved road safety through automated alert triggering  
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Smart IoT-Enabled Plant Monitoring & Disease Detection  
+Tech Stack: IoT • Python • TensorFlow • Android • Firebase
 
-- Advanced Android Development (Kotlin + Firebase)
-- ReactJS for Web Applications
-- AI/ML basics with Python (scikit-learn, TensorFlow)
-- UI/UX Design Fundamentals
+- Developed IoT-based system to monitor plant health using environmental parameters (temperature, humidity, soil moisture)  
+- Built Android application for real-time plant tracking and disease notifications  
+- Integrated Firebase backend for live data synchronization  
+- Implemented plant disease classification model using TensorFlow  
+- Enabled remote monitoring with automated alerts for preventive action  
 
 ---
 
-## 🧠 Projects
+### 🩺 CuraLung AI – Early Lung Cancer Detection  
+Tech Stack: Python • Scikit-learn • CatBoost • XGBoost • Machine Learning
 
-- 🔐 [**VoteIN**](https://github.com/HarshvardhanSutar/VoteIN) – Secure election app with voter validation, candidate registration, and real-time countdown  
-- 🧠 [**Arogyam**](https://github.com/HarshvardhanSutar/Arogyam) – Mental health assistant app with AI chatbot and wellness features  
-- 🚗 [**Driver Drowsiness Detection**](https://github.com/HarshvardhanSutar/DDDAS) – Real-time alert system using OpenCV, Python, Arduino  
-- 🌱 [**Smart IoT Plant System**](https://github.com/HarshvardhanSutar/SmartPlantMonitor) – Monitors plant health and detects diseases using AI
+- Built predictive ML model for early-stage lung cancer detection  
+- Processed structured clinical and demographic datasets  
+- Applied ensemble learning techniques for improved classification accuracy  
+- Performed feature engineering and model evaluation for performance optimization  
+- Delivered interpretable insights for risk prediction and decision support  
 
 ---
 
