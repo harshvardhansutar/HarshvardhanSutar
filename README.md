@@ -20,12 +20,38 @@ I'm Harshvardhan Sutar, Aspiring Data Analyst pursuing a Bachelor of Engineering
 - 📫 Reach me at: harshvardhansutar@gmail.com
 
 
-## 🌐 Connect With Me
+  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-sutar/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshvardhansutar.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhansutar@gmail.com)
 
 
 ---
+
+## 💼 Professional Experience
+
+### 📊 Data Analytics Trainee  
+**MedTourEasy (MDTREY Medical Travel Pvt. Ltd.)** – Gurugram, HR  
+📅 Jan 2026 (4 Weeks)
+
+- Completed structured traineeship under industry mentorship in Data Analytics  
+- Analyzed real-world datasets to study age-of-death differences between right-handed and left-handed individuals  
+- Applied Exploratory Data Analysis (EDA) and statistical techniques  
+- Performed data cleaning, preprocessing, and visualization using Python  
+- Extracted meaningful insights from structured datasets  
+
+---
+
+### 📱 Android Development Intern  
+**ProAzure Software Solutions Pvt. Ltd.** – Pune, MH  
+📅 Jun 2023 – Jul 2023 (6 Weeks)
+
+- Completed MSBTE Industrial Training focused on Android Application Development  
+- Developed Android applications using Java and Android Studio  
+- Worked with Activities, Layouts, Intents, and UI components  
+- Implemented XML-based UI design, activity lifecycle, event handling, and basic data storage  
+
+
+--- 
 
 ## 🛠️ Tech Stack
 
