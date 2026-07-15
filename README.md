@@ -1,176 +1,223 @@
-# 👋 Hey, I'm Harshvardhan Sutar
+<div align="center">
 
-🎓 Final-Year Computer Engineering Student | 💻 Full-Stack Developer & AI Builder  
-📍 Pune, India | 🌐 Open to SDE Intern & Junior Developer Roles
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&customColorList=6,7,8,9,10&height=200&section=header&text=Harshvardhan%20Sutar&fontSize=48&fontColor=f97316&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Android%20Engineer&descAlignY=55&descSize=18&descColor=e5e5e5" width="100%"/>
 
----
+<a href="https://harshvardhansutar.netlify.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Final-Year+Computer+Engineering+Student;Building+RidersHUB+%2F+Rydio+%F0%9F%8F%8D%EF%B8%8F;Shipping+AI-powered+tools+%F0%9F%A4%96;Open+to+SDE+Intern+%26+Junior+Dev+Roles" alt="Typing SVG" />
+</a>
 
-## Let me introduce myself
+<br/>
 
-I'm Harshvardhan Sutar, a final-year Computer Engineering student at Ajeenkya DY Patil School of Engineering (9.05 CGPA), building end-to-end products across Android, AI, and full-stack web. I like taking an idea from a blank file to a fully working, polished app — whether that's a native Android app with real-time data, an AI-powered web tool, or a desktop assistant. Actively looking for SDE intern and junior developer roles at product-based companies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=F97316)](https://www.linkedin.com/in/harshvardhan-sutar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=F97316)](https://harshvardhansutar.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:harshvardhansutar@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-0a0a0a?style=for-the-badge&logo=youtube&logoColor=F97316)](https://www.youtube.com/@imxharshgaming)
 
-## 🚀 About Me
+</div>
 
-- 📱 Building **RidersHUB/Rydio**, an Android app for riders with real-time GPS-driven weather and a gamified achievements/XP system  
-- 🤖 Built **English Coach AI**, a Flask + LLM-powered personal English learning web app with adaptive CEFR-level coaching  
-- 🖥️ Built **AURA**, a Python desktop AI assistant (PySide6 + Llama 3.3 70B) with voice input and live system stats  
-- 🧠 Shipped AI/ML systems spanning computer vision, NLP, and predictive modeling — from real-time surveillance to lung cancer risk prediction  
-- 🏆 Led final-year projects **PaathRakshak AI** (YOLOv11-based street surveillance) and **SafeCity AI** (women's safety & emergency response)  
-- 📊 Hands-on experience in data analytics, EDA, and ML through industry internships  
-- 📫 Reach me at: harshvardhansutar@gmail.com
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-sutar/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://harshvardhansutar.netlify.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshvardhansutar@gmail.com)
+## 🧭 About Me
 
----
+```yaml
+name: Harshvardhan Sutar
+role: Full-Stack Developer & AI Builder
+location: Pune, India
+education: B.E. Computer Engineering @ Ajeenkya DY Patil SOE (CGPA 9.05)
+status: Final-year student, open to SDE Intern & Junior Dev roles
+currently_building:
+  - RidersHUB / Rydio — Android rider app (real-time GPS weather + XP achievements)
+  - English Coach AI — Flask + LLM adaptive English tutor
+  - AURA — Python desktop AI assistant (PySide6 + Llama 3.3 70B)
+fun_fact: also runs a Marathi/Hindi comedy reels page + a cricket gaming YouTube channel
+```
 
-## 💼 Professional Experience
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-### 📊 Data Analytics Trainee  
-**MedTourEasy (MDTREY Medical Travel Pvt. Ltd.)** – Gurugram, HR  
-📅 Jan 2026 (4 Weeks)
+## 💼 Experience
 
-- Completed structured traineeship under industry mentorship in Data Analytics  
-- Analyzed real-world datasets to study age-of-death differences between right-handed and left-handed individuals  
-- Applied Exploratory Data Analysis (EDA) and statistical techniques  
-- Performed data cleaning, preprocessing, and visualization using Python  
-- Extracted meaningful insights from structured datasets  
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📊 Data Analytics Trainee
+**MedTourEasy** · Jan 2026 · 4 Weeks
+- EDA on real-world clinical datasets
+- Python-based data cleaning & visualization
+- Statistical analysis & insight extraction
 
-### 📱 Android Development Intern  
-**ProAzure Software Solutions Pvt. Ltd.** – Pune, MH  
-📅 Jun 2023 – Jul 2023 (6 Weeks)
+</td>
+<td width="50%" valign="top">
 
-- Completed MSBTE Industrial Training focused on Android Application Development  
-- Developed Android applications using Java and Android Studio  
-- Worked with Activities, Layouts, Intents, and UI components  
-- Implemented XML-based UI design, activity lifecycle, event handling, and basic data storage  
+### 📱 Android Development Intern
+**ProAzure Software Solutions** · Jun–Jul 2023 · 6 Weeks
+- Java + Android Studio app development
+- Activities, Layouts, Intents, UI components
+- Activity lifecycle & event handling
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
 ## 🚀 Featured Projects
 
-### 🏍️ RidersHUB / Rydio  
-Tech Stack: Java • Android • Firebase (Auth, Firestore, Storage) • OpenWeatherMap API • Glide
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Native Android app for riders with a real-time GPS-driven weather card powered by OpenWeatherMap  
-- Built a gamified Achievements system with a 15-badge XP progression tied to real ride stats  
-- Designed a custom floating pill-style bottom navigation bar with animated icon tinting  
-- Implemented a searchable bottom-sheet bike picker and a profile screen with 3D entrance animation  
-- Dark UI design system built around Firebase-backed real user data (no hardcoded values)  
+### 🏍️ [RidersHUB / Rydio](#)
+Android · Firebase · OpenWeatherMap
 
----
+Real-time GPS-driven weather card, 15-badge XP achievement system, animated floating bottom nav, dark UI with real Firebase data end-to-end.
 
-### 🗣️ English Coach AI  
-Tech Stack: Python • Flask • SQLite • OpenRouter (Llama) • Vanilla JS
+`Java` `Firebase` `Glide` `Material Components`
 
-- Personal English-learning web app with adaptive CEFR-level prompting that adjusts to the learner  
-- Eight distinct conversation modes plus a voice mode for spoken practice  
-- Tracks vocabulary growth and recurring mistakes via hidden tagging in conversation  
-- Persistent memory system and a progress dashboard with session history  
+</td>
+<td width="50%" valign="top">
 
----
+### 🗣️ [English Coach AI](#)
+Flask · SQLite · OpenRouter (Llama)
 
-### 🧠 AURA – Desktop AI Assistant  
-Tech Stack: Python • PySide6 • Llama 3.3 70B (OpenRouter) • psutil
+Adaptive CEFR-level English tutor with 8 conversation modes, voice mode, vocabulary/mistake tracking, and persistent memory.
 
-- JARVIS-inspired desktop assistant with a custom PySide6 UI and live system stats monitoring  
-- Voice input pipeline with wake-word style interaction; diagnosed and fixed threading/STT bugs  
-- Modular bridge architecture with graceful fallback if the LLM backend is unavailable  
+`Python` `Flask` `LLM` `SQLite`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🚨 PaathRakshak AI – Real-Time Street Surveillance *(Final Year Project)*  
-Tech Stack: Python • YOLOv11 • ByteTrack • Video Swin Transformer
+### 🧠 [AURA — Desktop AI Assistant](#)
+PySide6 · Llama 3.3 70B · psutil
 
-- Real-time surveillance system for detecting and tracking anomalous street activity  
-- Combined object detection (YOLOv11) with multi-object tracking (ByteTrack) and action recognition  
+JARVIS-style desktop assistant with custom UI, live system stats, and a voice pipeline with threading/STT bugs fixed.
 
----
+`Python` `PySide6` `OpenRouter`
 
-### 🛡️ SafeCity AI – Women's Safety & Emergency Response *(Final Year Project)*  
-Tech Stack: Python • Computer Vision • Real-Time Alerts
+</td>
+<td width="50%" valign="top">
 
-- Emergency response system designed to detect distress situations and trigger real-time alerts  
+### 🚨 [PaathRakshak AI](#)
+YOLOv11 · ByteTrack · Video Swin Transformer
 
----
+Real-time street surveillance system combining detection, tracking, and action recognition. *(Final Year Project)*
 
-### 🩺 CuraLung AI – Early Lung Cancer Detection  
-Tech Stack: Python • Scikit-learn • CatBoost • XGBoost
+`Python` `Computer Vision`
 
-- Predictive ML model for early-stage lung cancer detection using ensemble learning  
-- Feature engineering and model evaluation for interpretable risk prediction  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🛡️ [SafeCity AI](#)
+Computer Vision · Real-Time Alerts
 
-### 🌱 Smart IoT-Enabled Plant Monitoring & Disease Detection  
-Tech Stack: IoT • Python • TensorFlow • Android • Firebase
+Women's safety and emergency response system with real-time distress detection. *(Final Year Project)*
 
-- IoT-based system monitoring plant health via temperature, humidity, and soil moisture  
-- Android app for real-time tracking with Firebase sync and TensorFlow-based disease classification  
+`Python` `CV`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🚗 Driver Drowsiness Detection and Alert System  
-Tech Stack: Python • OpenCV • Arduino
+### 🩺 [CuraLung AI](#)
+Scikit-learn · CatBoost · XGBoost
 
-- Real-time fatigue detection using eye-blink and facial landmark detection  
-- Hardware-integrated Arduino alert mechanism, optimized for low latency  
+Predictive ML model for early-stage lung cancer detection using ensemble learning and feature engineering.
 
----
+`Python` `ML`
 
-## 💻 Technical Skills
+</td>
+</tr>
+</table>
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+<details>
+<summary><b>📦 More Projects</b></summary>
+<br/>
 
-### 📱 Android & Desktop
-![Java](https://img.shields.io/badge/Android_Java-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+**🌱 Smart IoT Plant Monitoring** — IoT · Python · TensorFlow · Android · Firebase
+Real-time plant health tracking with disease classification and remote alerts.
 
-### 🌐 Web & Backend
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**🚗 Driver Drowsiness Detection** — Python · OpenCV · Arduino
+Eye-blink and facial landmark detection with hardware-integrated alerts.
 
-### 🤖 AI / ML / Computer Vision
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+</details>
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
----
+## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Harshvardhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshvardhansutar&show_icons=true&theme=tokyonight&hide_border=true)
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js&theme=dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhansutar&layout=compact&theme=tokyonight&hide_border=true)
+**Android & Desktop**
+<br/>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,qt&theme=dark" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=harshvardhansutar&theme=tokyonight&hide_border=true)
+**Web & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,sqlite,html,css&theme=dark" />
 
----
+**AI / ML / CV**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pytorch&theme=dark" />
 
-## 📫 Let's Connect
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-sutar)  
-📧 Email: harshvardhansutar@gmail.com  
-🌐 Portfolio: [harshvardhansutar.netlify.app](https://harshvardhansutar.netlify.app/)  
-🎮 YouTube: [IMxHARSH Gaming](https://www.youtube.com/@imxharshgaming)
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repos, suggest improvements, or reach out for collaborations!*
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harshvardhansutar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=F97316&icon_color=F97316&text_color=e5e5e5&ring_color=F97316" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhansutar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=F97316&text_color=e5e5e5&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=harshvardhansutar&hide_border=true&background=0a0a0a&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=e5e5e5&currStreakNum=e5e5e5&sideNums=e5e5e5&dates=9c9c9c" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshvardhansutar&theme=react-dark&bg_color=0a0a0a&color=F97316&line=F97316&point=e5e5e5&hide_border=true" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshvardhansutar&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/harshvardhansutar/harshvardhansutar/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ⚙️ This animates your real contribution graph and needs a one-time GitHub Actions setup — see `snake.yml` below.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="3px"/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=F97316)](https://www.linkedin.com/in/harshvardhan-sutar)
+&nbsp;
+📧 harshvardhansutar@gmail.com
+&nbsp;
+🌐 [Portfolio](https://harshvardhansutar.netlify.app/)
+&nbsp;
+🎮 [IMxHARSH Gaming](https://www.youtube.com/@imxharshgaming)
+
+<img src="https://komarev.com/ghpvc/?username=harshvardhansutar&label=Profile%20Views&color=F97316&style=flat-square" />
+
+<br/><br/>
+⭐ *Thanks for stopping by — explore the repos, drop feedback, or reach out to collaborate!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&customColorList=6,7,8,9,10&height=100&section=footer" width="100%"/>
+
+</div>
